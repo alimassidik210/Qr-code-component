@@ -15,7 +15,7 @@
 
 ### Screenshot
 
-![Design preview for the QR code component coding challenge](./screenshot.png)
+![Design preview for the QR code component coding challenge](./Screenshot.png)
 
 ### Links
 
@@ -82,8 +82,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 - Website - [alim assidik](https://mini-portfolio-yp8m.onrender.com)
 - Frontend Mentor - [@alimassidik210](https://www.frontendmentor.io/profile/alimassidik210)
 - Instagram - [@yourusername](https://www.instagram.com/alim.assidik210)
-
-## Acknowledgments
 
 ## Acknowledgments
 
