@@ -19,13 +19,9 @@
 
 ### Links
 
-## Solution
-
 The source code for the project is available here:
 
 - Solution URL: (https://github.com/alimassidik210/Qr-code-component.git)
-
-## Demo
 
 You can see the live version of the project here:
 
